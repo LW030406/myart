@@ -16,7 +16,7 @@ tags:
 
 如果喜欢本站同款主题可去此下载：[主题GITHUB地址](https://github.com/V-Vincen/hexo-theme-livemylife)
 
-[[本站现链接：[本站链接](xiaotaodaily.asia)
+[[本站现链接：[本站链接](https://xiaotaodaily.asia)
 
 当前已经具备的功能：文章的收录，发布，简单的评论区系统，背景音乐等，后续会陆续完善
 
